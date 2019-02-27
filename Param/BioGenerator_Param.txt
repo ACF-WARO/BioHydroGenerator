@@ -1,0 +1,10 @@
+ Parametres BioGenerator
+ 0  2  3           Filtre_Flag Nombre_iterations Taille_Filtre (Defaut : 0 2 3)
+ 10 9              Decade_Debut_Integration Decade_Fin_Integration (Defaut : 10 9)
+ 0  10             Production_Min Production_Seuil (Defaut : 0 15)
+ 0  30 50          Utilisable_Flag Conversion_Facteur_F0 Conversion_Facteur_F1 (Defaut : 0 30 50)
+ 50                Alpha_VI (Defaut : 50)
+ 0  30 100 30 1    Access_Flag Dist_Max Facteur_P0 Facteur_P1 Forages_Flag (Defaut : 0 30 100 30 1)
+ 0  1              Masque Profils (Defaut : 0 1)
+ 1  1              Optimisation Compression (Defaut : 1 1)
+ 0  0              Sorties_Raw Garde_Ancien (Defaut : 0 0)

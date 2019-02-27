@@ -1,0 +1,2 @@
+Output\Biomass\Anomaly\Anomaly_2018.tif Y:\data_dir\data\Biomass\SAH_BiomassAnomaly2018_ef_v0\SAH_BiomassAnomaly2018_ef_v0.geotiff
+Output\Biomass\Anomaly\Anomaly_2018.tif Y:\data_dir\MetaDownload\BiomassAnomaly2018.tif

@@ -1,0 +1,2 @@
+ Parametres DeCompressor
+  0	Forcage telechargement (Defaut : 0)

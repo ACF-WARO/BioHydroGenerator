@@ -1,0 +1,3 @@
+ Parametres AutoRun
+ 1  1       BioGenerator HydroGenerator (Defaut : 1 1)
+ 0          FilePush (Defaut : 0)

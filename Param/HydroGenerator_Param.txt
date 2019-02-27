@@ -1,0 +1,6 @@
+ Parametres HydroGenerator
+ 30                Dist_Max_km (Defaut : 30)
+ 0   6             Decade_Debut_Integration Decade_Fin_Integration (Defaut : 10 9)
+ 0   0   0         Facteur_P0 Facteur_P1 Forages_Flag (Defaut : 0 0 0)
+ 1   1   0         Optimisation Compression Masque (Defaut : 1 1 0)
+ 0   0             Sorties_Raw Garde_Ancien (Defaut : 0 0)
