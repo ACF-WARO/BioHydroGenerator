@@ -1,0 +1,42 @@
+<PAMDataset>
+  <Metadata domain="IMAGE_STRUCTURE">
+    <MDI key="INTERLEAVE">BAND</MDI>
+  </Metadata>
+  <Metadata>
+    <MDI key="Band_1">Band Math (byte(b1))</MDI>
+  </Metadata>
+  <Metadata domain="ENVI">
+    <MDI key="bands">1</MDI>
+    <MDI key="band_names">{ Band Math (byte(b1))}</MDI>
+    <MDI key="byte_order">0</MDI>
+    <MDI key="coordinate_system_string">{GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]]}</MDI>
+    <MDI key="data_type">1</MDI>
+    <MDI key="description">{  Create New File Result [Wed Sep 07 09:47:33 2016]}</MDI>
+    <MDI key="file_type">ENVI Standard</MDI>
+    <MDI key="header_offset">0</MDI>
+    <MDI key="interleave">bsq</MDI>
+    <MDI key="lines">3630</MDI>
+    <MDI key="samples">7841</MDI>
+    <MDI key="sensor_type">Unknown</MDI>
+    <MDI key="wavelength_units">Unknown</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Description>Band Math (byte(b1))</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>-0.3333333333333333</HistMin>
+        <HistMax>2.333333333333333</HistMax>
+        <BucketCount>3</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>1</Approximate>
+        <HistCounts>108312|366964|3025</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">2</MDI>
+      <MDI key="STATISTICS_MEAN">0.77987292520818</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">0.42932514994404</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

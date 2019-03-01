@@ -1,0 +1,14 @@
+ENVI
+description = {
+  Create New File Result [Wed Jan 08 14:21:19 2014]}
+samples = 7841
+lines   = 3630
+bands   = 1
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+map info = {Geographic Lat/Lon, 1.0000, 1.0000, -18.00446430, 27.37946430, 8.9285714300e-003, 8.9285714300e-003, WGS-84, units=Degrees}
+wavelength units = Unknown
