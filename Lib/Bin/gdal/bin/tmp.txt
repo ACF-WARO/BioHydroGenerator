@@ -1,0 +1,100 @@
+Supported Formats:
+  VRT (rw+): Virtual Raster
+  GTiff (rw+v): GeoTIFF
+  NITF (rw+v): National Imagery Transmission Format
+  RPFTOC (ro): Raster Product Format TOC format
+  HFA (rw+v): Erdas Imagine Images (.img)
+  SAR_CEOS (ro): CEOS SAR Image
+  CEOS (ro): CEOS Image
+  JAXAPALSAR (ro): JAXA PALSAR Product Reader (Level 1.1/1.5)
+  GFF (rov): Ground-based SAR Applications Testbed File Format (.gff)
+  ELAS (rw+): ELAS
+  AIG (ro): Arc/Info Binary Grid
+  AAIGrid (rwv): Arc/Info ASCII Grid
+  SDTS (ro): SDTS Raster
+  OGDI (ro): OGDI Bridge
+  DTED (rwv): DTED Elevation Raster
+  PNG (rwv): Portable Network Graphics
+  JPEG (rwv): JPEG JFIF
+  MEM (rw+): In Memory Raster
+  JDEM (ro): Japanese DEM (.mem)
+  GIF (rwv): Graphics Interchange Format (.gif)
+  BIGGIF (rov): Graphics Interchange Format (.gif)
+  ESAT (ro): Envisat Image Format
+  BSB (ro): Maptech BSB Nautical Charts
+  XPM (rw): X11 PixMap Format
+  BMP (rw+v): MS Windows Device Independent Bitmap
+  DIMAP (ro): SPOT DIMAP
+  AirSAR (ro): AirSAR Polarimetric Image
+  RS2 (ro): RadarSat 2 XML Product
+  PCIDSK (rw+v): PCIDSK Database File
+  PCRaster (rw): PCRaster Raster File
+  ILWIS (rw+v): ILWIS Raster Map
+  SGI (rw+): SGI Image File Format 1.0
+  SRTMHGT (rwv): SRTMHGT File Format
+  Leveller (rw+): Leveller heightfield
+  Terragen (rw+): Terragen heightfield
+  GMT (rw): GMT NetCDF Grid Format
+  netCDF (rw): Network Common Data Format
+  HDF4 (ro): Hierarchical Data Format Release 4
+  HDF4Image (rw+): HDF4 Dataset
+  ISIS3 (ro): USGS Astrogeology ISIS cube (Version 3)
+  ISIS2 (ro): USGS Astrogeology ISIS cube (Version 2)
+  PDS (ro): NASA Planetary Data System
+  TIL (ro): EarthWatch .TIL
+  ERS (rw+): ERMapper .ers Labelled
+  ECW (rw): ERMapper Compressed Wavelets
+  JP2ECW (rw+): ERMapper JPEG2000
+  L1B (ro): NOAA Polar Orbiter Level 1b Data Set
+  FIT (rw): FIT Image
+  GRIB (ro): GRIdded Binary (.grb)
+  MrSID (ro): Multi-resolution Seamless Image Database (MrSID)
+  JP2MrSID (ro): MrSID JPEG2000
+  RMF (rw+): Raster Matrix Format
+  WCS (ro): OGC Web Coverage Service
+  WMS (ro): OGC Web Map Service
+  MSGN (ro): EUMETSAT Archive native (.nat)
+  RST (rw+): Idrisi Raster A.1
+  INGR (rw+): Intergraph Raster
+  GSAG (rw): Golden Software ASCII Grid (.grd)
+  GSBG (rw+): Golden Software Binary Grid (.grd)
+  GS7BG (ro): Golden Software 7 Binary Grid (.grd)
+  COSAR (ro): COSAR Annotated Binary Matrix (TerraSAR-X)
+  TSX (ro): TerraSAR-X Product
+  COASP (ro): DRDC COASP SAR Processor Raster
+  R (rwv): R Object Data Store
+  PNM (rw+): Portable Pixmap Format (netpbm)
+  DOQ1 (ro): USGS DOQ (Old Style)
+  DOQ2 (ro): USGS DOQ (New Style)
+  ENVI (rw+v): ENVI .hdr Labelled
+  EHdr (rw+v): ESRI .hdr Labelled
+  GenBin (ro): Generic Binary (.hdr Labelled)
+  PAux (rw+): PCI .aux Labelled
+  MFF (rw+): Vexcel MFF Raster
+  MFF2 (rw+): Vexcel MFF2 (HKV) Raster
+  FujiBAS (ro): Fuji BAS Scanner Image
+  GSC (ro): GSC Geogrid
+  FAST (ro): EOSAT FAST Format
+  BT (rw+): VTP .bt (Binary Terrain) 1.3 Format
+  LAN (ro): Erdas .LAN/.GIS
+  CPG (ro): Convair PolGASP
+  IDA (rw+): Image Data and Analysis
+  NDF (ro): NLAPS Data Format
+  EIR (ro): Erdas Imagine Raw
+  DIPEx (ro): DIPEx
+  LCP (rov): FARSITE v.4 Landscape File (.lcp)
+  RIK (ro): Swedish Grid RIK (.rik)
+  USGSDEM (rw): USGS Optional ASCII DEM (and CDED)
+  GXF (ro): GeoSoft Grid Exchange Format
+  HTTP (ro): HTTP Fetching Wrapper
+  BAG (ro): Bathymetry Attributed Grid
+  HDF5 (ro): Hierarchical Data Format Release 5
+  HDF5Image (ro): HDF5 Dataset
+  NWT_GRD (ro): Northwood Numeric Grid Format .grd/.tab
+  NWT_GRC (ro): Northwood Classified Grid Format .grc/.tab
+  ADRG (rw+v): ARC Digitized Raster Graphics
+  SRP (rov): Standard Raster Product (ASRP/USRP)
+  BLX (rw): Magellan topo (.blx)
+  Rasterlite (rw): Rasterlite
+  WKTRaster (ro): PostGIS WKT Raster driver
+  SAGA (rw+v): SAGA GIS Binary Grid (.sdat)
